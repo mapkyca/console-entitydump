@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-entitydump",
+    "type": "known-console",
+    "description": "A tool for outputting the raw contents of an object as identified by UUID, ID or short url",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "EntityDump"
+    }
+}
